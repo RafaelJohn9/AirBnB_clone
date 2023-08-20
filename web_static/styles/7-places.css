@@ -2,9 +2,6 @@
 
 .places{
 	display: flex;
-	align-items: left;
-	justify-content: top;
-	align: left;
 	font-size: 30px;
 	flex-wrap: wrap;
 }
